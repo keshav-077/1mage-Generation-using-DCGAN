@@ -50,8 +50,7 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dcgan-celeba.git
-   cd dcgan-celeba
+   git clone https://github.com/keshav-077/1mage-Generation-using-DCGAN
    ```
 
 2. Download the CelebA dataset from Kaggle and extract into dataset/:
@@ -62,16 +61,17 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
  3. Open the notebook:
    ```
-  Jupyter Notebook "2-DCGAN By Neuralearn.ai-.ipynb"
+  Jupyter Notebook "DCGAN-!mage-Generation.ipynb"
 
    ```
 
 
 📊 Results
 
-#Loss Curves
- -The discriminator (d_loss) and generator (g_loss) losses across the first 20 epochs:
- -Discriminator loss decreases steadily as it learns to classify real vs fake images.
- -Generator loss increases gradually as the generator improves at fooling the discriminator.
+### Loss Curves
+ -**The discriminator (d_loss) and generator (g_loss) losses across the first 20 epochs:
+ -**Discriminator loss decreases steadily as it learns to classify real vs fake images.
+ -**Generator loss increases gradually as the generator improves at fooling the discriminator.
+ 
 
  
