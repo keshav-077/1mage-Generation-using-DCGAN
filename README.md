@@ -66,12 +66,15 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
    ```
 
 
-📊 Results
+## 📊 Results
 
 ### Loss Curves
- -**The discriminator (d_loss) and generator (g_loss) losses across the first 20 epochs:
- -**Discriminator loss decreases steadily as it learns to classify real vs fake images.
- -**Generator loss increases gradually as the generator improves at fooling the discriminator.
+```
+      - Discriminator loss decreases steadily as it learns to classify real vs fake images.
+      - Generator loss increases gradually as the generator improves at fooling the discriminator.
+```
+
+   <img src="assessts/Screenshot 2025-09-05 174315.png" alt="LOss">
  
 
  
